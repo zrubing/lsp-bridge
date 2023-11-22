@@ -8,7 +8,7 @@
   "settings": {},
   "initializationOptions": {
     "typescript": {
-      "tsdk": "/usr/lib/node_modules/typescript/lib"
+      "tsdk": "~/.nvm/versions/node/v20.9.0/lib/node_modules/typescript/lib"
     },
     "languageFeatures": {
       "references": true,
